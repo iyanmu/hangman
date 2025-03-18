@@ -39,14 +39,3 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan buka [issue](https://gith
 ## Lisensi
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
----
-
-Selamat bermain! 🎮
-```
-
-### Catatan:
-- Pastikan link gambar yang Anda masukkan (`https://github.com/user-attachments/assets/1980bbdd-1a7e-4246-874f-0aca690b0f26`) sudah benar dan dapat diakses.
-- Jika gambar tersebut belum diunggah ke GitHub atau platform lain, Anda perlu mengunggahnya terlebih dahulu dan mengganti link dengan URL yang valid.
-
-Semoga membantu! 😊
