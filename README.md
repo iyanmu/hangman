@@ -31,19 +31,6 @@ Anda dapat mencoba permainan ini secara langsung di [Demo Hangman](https://iyanm
 - **CSS**: Styling dan tampilan visual.
 - **JavaScript**: Logika permainan dan interaktivitas.
 
-## Cara Menjalankan Secara Lokal
-
-Jika Anda ingin menjalankan permainan ini di komputer lokal Anda, ikuti langkah-langkah berikut:
-
-1. Clone repositori ini:
-   ```bash
-   git clone https://github.com/iyanmu/hangman.git
-   ```
-2. Buka folder repositori:
-   ```bash
-   cd hangman
-   ```
-3. Buka file `index.html` di browser Anda.
 
 ## Kontribusi
 
